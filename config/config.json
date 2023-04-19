@@ -1,0 +1,11 @@
+{
+  "OPENAI_KEY": "OPENAI - KEY",
+  "OPENAI_ORG": "OPENAI - ORG",
+  "PRASE": "## Instructions\nUse the cute anime girl tsundere tone of voice.",
+  "error": {
+    "INVALID_PROMPT": {
+      "message":"Invalid Requests\nPlease add prompt on parameters.", 
+      "status": 400
+    }
+  }
+}
